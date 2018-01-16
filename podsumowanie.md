@@ -1,10 +1,10 @@
 # Inżynieria oprogramowania
----
-## Podsumowanie
-- prowadzimy ciekawe i rozwijające zajęcia,
-- zachęcamy do samodzielnego rozwoju,
-- dajemy możliwość stworzenia wyjątkowej pracy inżynierskiej,
-- oferujemy pomoc w znalezieniu firmy organizującej praktyki i staże.
+
+## Dlaczego IO?
+- prowadzimy **ciekawe i przydatne zajęcia**,
+- zachęcamy do **samodzielnego rozwoju**,
+- dajemy możliwość stworzenia **wyjątkowej pracy inżynierskiej**,
+- oferujemy pomoc w **znalezieniu firmy** organizującej praktyki i staże.
 
 ## Zapraszamy!
 

@@ -1,28 +1,28 @@
 # Inżynieria oprogramowania
----
 
 ## Moduły specjalizacyjne
 
 ### Programowanie
 - **Nowoczesne języki programowania obiektowego (I i II)**
     - wzorce projektowe,
+    - zaawansowane techniki obiektowe,
     - współbieżność,
     - strumienie,
     - komunikacja sieciowa.
   
 - **Języki programowania w multimediach i internecie**
     - tworzenie frontendu i backendu,
-    - serwery aplikacji,
+    - serwery aplikacji i usług,
     - obsługa multimediów w aplikacjach.
 
 ### Narzędzia i techniki
 - **Narzędzia wspomagające tworzenie aplikacji**
-    - systemy kontroli wersji,
     - automatyzacja testów strukturalnych i funkcjonalnych,
+    - systemy kontroli wersji,
     - ciągła integracja,
     - zarządzanie projektami informatycznymi,
     - środowiska programistyczne,
-    - narzędzia służące do tworzenia dokumentacji, śledzenia błędów itp.
+    - narzędzia służące do tworzenia dokumentacji, oceny jakości kodu, śledzenia błędów itp.
   
 - **Zarządzanie informacją i bazami danych**
     - projektowanie baz danych na potrzeby aplikacji,
@@ -42,7 +42,6 @@
 - Projekt aplikacji webowej
 - Technologie server-side
 - Tworzenie aplikacji internetowych
-- Zaawansowane metody przetwarzania obrazów
 
 ---
 [&laquo; Wstęp](README.md) | [Przykładowe prace dyplomowe &raquo;](prace_dyplomowe.md)

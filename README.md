@@ -1,13 +1,12 @@
 # Inżynieria oprogramowania
 ---
 
-Jeżeli:
+**JEŻELI**
 
-- chcesz, by Twój kod był piękny,
-- chcesz tworzyć wspaniałe (i dochodowe) aplikacje,
-- nie boisz się nowych narzędzi i technik,
-- chcesz doskonalić swoje umiejętności programistyczne,
-- w ramach pracy inżynierskiej chcesz stworzyć coś ciekawego,
+- chcesz się nauczyć tworzyć **wspaniałe aplikacje**,
+- chcesz, by spod Twoich palców wychodził **piękny kod**,
+- uwielbiasz poznawać **nowe narzędzia i techniki**,
+- w ramach pracy inżynierskiej **chcesz stworzyć coś wyjątkowego**, a przy okazji nauczyć się czegoś nowego,
 
 **INŻYNIERIA OPROGRAMOWANIA JEST DLA CIEBIE!**
 
