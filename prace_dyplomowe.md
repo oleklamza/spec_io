@@ -1,5 +1,5 @@
 # Inżynieria oprogramowania
----
+
 Przede wszystkim: **prace dyplomowe mają rozwijać WASZE zainteresowania i umiejętności.**
 
 Są też świetną okazją na zmierzenie się z **nową technologią** czy **nowym językiem programowania**. 
@@ -75,4 +75,4 @@ Dzięki dobrze dobranej tematyce pracy dyplomowej zwiększacie swoją wartość 
 - Projektowanie aplikacji webowych w paradygmacie obiektowym z wykorzystaniem wzorca MVC
 
 ---
-[&laquo; Przykładowe prace dyplomowe](prace_dyplomowe.md) | [Podsumowanie &raquo;](podsumowanie.md)
+[&laquo; Opis siatki specjalizacji](lista_modulow.md) | [Podsumowanie &raquo;](podsumowanie.md)
