@@ -2,7 +2,7 @@
 
 Przede wszystkim: **prace dyplomowe mają rozwijać WASZE zainteresowania i umiejętności.**
 
-Są też świetną okazją na zmierzenie się z **nową technologią** czy **nowym językiem programowania**. 
+Są też świetną okazją do zmierzenia się z **nową technologią** czy **nowym językiem programowania**. 
 
 Dzięki dobrze dobranej tematyce pracy dyplomowej **zwiększacie swoją wartość na rynku pracy**.
 
