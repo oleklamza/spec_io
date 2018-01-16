@@ -1,5 +1,4 @@
 # Inżynieria oprogramowania
----
 
 **JEŻELI**
 
