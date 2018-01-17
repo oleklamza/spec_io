@@ -74,5 +74,15 @@ Dzięki dobrze dobranej tematyce pracy dyplomowej **zwiększacie swoją wartoś�
 - Mobilny oraz webowy system wspomagający osoby niepełnosprawne
 - Projektowanie aplikacji webowych w paradygmacie obiektowym z wykorzystaniem wzorca MVC
 
+### Kilka propozycji tematów
+- Tworzenie międzyplatformowych aplikacji mobilnych w React Native
+- Tworzenie aplikacji desktopowych z wykorzystaniem frameworka Electron
+- Biblioteka do importu modeli i animacji w JavaFx 3D
+- Sterowanie elementami sceny 3D za pomocą ruchów
+- Dynamiczne mapy dla inteligentnego miasta
+- Gra VR (Virtual Reality) dla platformy Android w środowisku Unity 3D
+- Gra AR (Augmented Reality) dla platformy Android w środowisku Unity 3D
+- Estymacja natężenia ruchu miejskiego poprzez zastosowanie podejścia statycznego
+
 ---
 [&laquo; Opis siatki specjalizacji](lista_modulow.md) | [Podsumowanie &raquo;](podsumowanie.md)
