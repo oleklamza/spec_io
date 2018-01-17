@@ -9,5 +9,7 @@
 
 **INŻYNIERIA OPROGRAMOWANIA JEST DLA CIEBIE!**
 
+W razie pytań jestem do dyspozycji: aleksander.lamza@us.edu.pl.
+
 ---
 [Opis siatki specjalizacji &raquo;](lista_modulow.md)
