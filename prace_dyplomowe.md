@@ -52,7 +52,7 @@ Dzięki dobrze dobranej tematyce pracy dyplomowej **zwiększacie swoją wartoś�
 - Realizacja gry zręcznościowej w technologii webowej
 - Sieciowa wieloosobowa gra w czołgi w technologii.NET
 - Projekt oraz realizacja aplikacji mobilnej i webowej do monitorowania przebytych tras
-- Wieloosobowa gra online oparta na REST APi
+- Wieloosobowa gra online oparta na REST API
 - Gra typu RPG na platformę Android
 - Desktopowy oraz webowy system usprawniający tworzenie i udostępnianie planów zajęć
 - System do zarządzania majątkiem
