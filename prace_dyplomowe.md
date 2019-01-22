@@ -8,19 +8,12 @@ Dzięki dobrze dobranej tematyce pracy dyplomowej **zwiększacie swoją wartoś�
 
 ---
 ### Przykładowe aktualnie realizowane tematy
-- Aplikacja zarządzania zadaniami z motywem gry RPG
-- Gra planszowa w środowisku Java FX
-- Aplikacja mobilna do sterowania oświetleniem
-- Webowy system rezerwacji miejsc w kinie
-- Aplikacja wspomagająca organizację
-- Aplikacja do drobnych ogłoszeń lokalnych
-- Projekt aplikacji webowej ułatwiającej wypełnianie oraz generowanie wniosków dla studentów
-- Aplikacja mobilna do zarządzania budżetem domowym
-- Aplikacja dla biegaczy na platrofmę Android
+- Wybrane metody zapewniania trwałości danych w technologiach javowych
 - Projekt aplikacji służącej do przechowywania danych w chmurze zapewniającej poufność
 - Aplikacja webowa służąca do rejestrowania czasu pracy dla małych i średnich przedsiębiorstw
 - Aplikacja wspomagająca pracę działu kadr i płac w firmie
 - Aplikacja webowa do analizy kosztów eksploatacji samochodów
+- Projekt aplikacji webowej ułatwiającej wypełnianie oraz generowanie wniosków dla studentów
 - Programowy syntezator dźwięku
 - Aplikacja webowa Fantasy League dla lokalnej ligi piłkarskiej
 - Webowa gra edukacyjna do nauki programowania w języku Java
@@ -31,19 +24,29 @@ Dzięki dobrze dobranej tematyce pracy dyplomowej **zwiększacie swoją wartoś�
 - Portal wymiany informacji dla studentów
 - Zastosowanie urządzeń noszonych do analizy aktywności fizycznej
 - Implementation and stability analysis of HA/DR solutions in virtual server environment
-- Kinetic jako platforma do tworzenia aplikacji mobilnych
 - Internetowy serwis pokerowy
 - Gra zręcznościowa na system Android w środowisku Unity
 - Aplikacja mobilna "BeFit" na system Android w środowisku Java
-- Transmisja wideo w technologii RPV
 
-### Archiwalne tematy (2015-2017)
+### Archiwalne tematy (2015-2018)
+- Aplikacja zarządzania zadaniami z motywem gry RPG
+- Gra planszowa w środowisku Java FX
+- Aplikacja mobilna do sterowania oświetleniem
+- Webowy system rezerwacji miejsc w kinie
+- Aplikacja wspomagająca organizację
+- Aplikacja do drobnych ogłoszeń lokalnych
+- Projekt aplikacji webowej ułatwiającej wypełnianie oraz generowanie wniosków dla studentów
+- Aplikacja mobilna do zarządzania budżetem domowym
+- Aplikacja dla biegaczy na platrofmę Android
+- Technologie do tworzenia wieloplatformowych aplikacji mobilnych
+- Porównanie mechanizmów wielowątkowości w języku Java z modelem aktorów z biblioteki Akka Actors
 - Projekt i realizacja gry typu sandbox z wykorzystaniem frameworku LibGDX
 - Gra platformowa 2D na urządzenia mobilne z systemem Android
 - Gra typu MMO (Massive Multiplayer Online) w formie aplikacji internetowej
 - Tworzenie aplikacji mobilnej na system Android z wykorzystaniem usług MBaaS
 - Internetowy system wspomagający prowadzenie ewidencji czasu pracy
 - System internetowy wspierający pracę przedszkola
+- Kinetic jako platforma do tworzenia aplikacji mobilnych
 - Internetowa gra logiczna z wykorzystaniem technologii HTML 5 i JavaScript
 - Tworzenie aplikacji webowych w ASP. NET MVC z wykorzystaniem usług MBaaS
 - Realizacja gry zręcznościowej w technologii webowej
@@ -58,6 +61,7 @@ Dzięki dobrze dobranej tematyce pracy dyplomowej **zwiększacie swoją wartoś�
 - Oprogramowanie służące do śledzenia błędów oraz zarządzania projektami
 - Tworzenie aplikacji deskopowych i mobilnych w języku Python z wykorzystaniem frameworka Kivy
 - Gra gatunku Visual Novel w technologii Java
+- Transmisja wideo w technologii RPV
 - Internetowy system rozliczania czasu pracy
 - Proces tworzenia gier na platformę mobilną z wykorzystaniem środowiska Unity
 - Internetowa platforma usprawniająca pracę wypożyczalni sprzętu motorowodnego
