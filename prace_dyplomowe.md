@@ -8,6 +8,34 @@ Dzięki dobrze dobranej tematyce pracy dyplomowej **zwiększacie swoją wartoś�
 
 ---
 ### Przykładowe aktualnie realizowane tematy
+- Aplikacja zwiększająca wydajność pracy w hipermarketach z kasami samoobsługowymi 
+- E-learningowa aplikacja mobilna dla dzieci 
+- Portal społecznościowy dla astrofotografów 
+- Serwis ogłoszeniowy rzeczy zgubionych i znalezionych dla systemu Android 
+- Aplikacja webowa do obsługi gabinetu stomatologicznego 
+- Aplikacja mobilna do rejestrowania i wizualizacji efektywności wykonywanej pracy 
+- Aplikacja webowa do monitorowania postępów treningów 
+- System obsługi wydarzeń i konferencji naukowych 
+- Aplikacja wspomagająca proces nauki gry na gitarze 
+- Aplikacja mobilna wspomagająca fizjoterapeutów 
+- Aplikacja do zarządzania i nadzorowania floty pojazdów 
+- Modułowy system sterowania za pomocą dźwięku
+- Zastosowanie mikroserwisów w budowie skalowanych aplikacji 
+- Aplikacja desktopowa symulująca działanie strategii inwestycji giełdowych 
+- Aplikacja do monitorowania i planowania diety 
+- Aplikacja webowa wspomagająca naukę metodyki SCRUM 
+- Aplikacja mobilna wspomagająca pracę ochotniczej straży pożarnej 
+- Aplikacja webowa wspomagająca pracę wypożyczalni samochodów 
+- Webowy planer rodzinny 
+- Aplikacja mobilna do zarządzania jednostką medyczną 
+- Aplikacja webowa do publikacji ogłoszeń lokalnych 
+- Konfigurator podzespołów komputerowych połączonych z serwisem porównywania cen 
+- Aplikacja webowa do zarządzania przepisami kulinarnymi
+- System wspomagający zarządzanie kartoteką pacjenta w gabinecie fizjoterapeutycznym
+- Model automatycznego sterowania oświetleniem 
+- Aplikacja mobilna do kontrolowania postępów w nauce 
+
+### Archiwalne tematy
 - Wybrane metody zapewniania trwałości danych w technologiach javowych
 - Projekt aplikacji służącej do przechowywania danych w chmurze zapewniającej poufność
 - Aplikacja webowa służąca do rejestrowania czasu pracy dla małych i średnich przedsiębiorstw
@@ -27,8 +55,6 @@ Dzięki dobrze dobranej tematyce pracy dyplomowej **zwiększacie swoją wartoś�
 - Internetowy serwis pokerowy
 - Gra zręcznościowa na system Android w środowisku Unity
 - Aplikacja mobilna "BeFit" na system Android w środowisku Java
-
-### Archiwalne tematy (2015-2018)
 - Aplikacja zarządzania zadaniami z motywem gry RPG
 - Gra planszowa w środowisku Java FX
 - Aplikacja mobilna do sterowania oświetleniem
