@@ -11,15 +11,19 @@
     - komunikacja sieciowa.
   
 - **Języki programowania w multimediach i internecie**
-    - tworzenie frontendu i backendu,
+    - tworzenie backendu w języku Java,
     - serwery aplikacji i usług,
     - obsługa multimediów w aplikacjach.
+
+- **Aplikacje mobilne i webowe**
+    - tworzenie nowoczesnych aplikacji wieloplatformowych (np. Flutter),
+    - korzystanie z usług typu BaaS (np. Firebase).
 
 ### Narzędzia i techniki
 - **Narzędzia wspomagające tworzenie aplikacji**
     - automatyzacja testów strukturalnych i funkcjonalnych,
     - systemy kontroli wersji,
-    - ciągła integracja,
+    - ciągła integracja i dostarczanie,
     - zarządzanie projektami informatycznymi,
     - środowiska programistyczne,
     - narzędzia służące do tworzenia dokumentacji, oceny jakości kodu, śledzenia błędów itp.
@@ -29,7 +33,7 @@
     - integracja systemów bazodanowych,
     - rozwiązania serwerowe,
     - projektowanie usług sieciowych (API),
-    - nierelacyjne bazy danych.
+    - dokumentowe bazy danych.
   
 - **Projektowanie zorientowane na użytkownika**
     - użyteczność oprogramowania,
@@ -38,7 +42,6 @@
     - problemy związane z dostępnością.
 
 ### Moduły uzupełniające
-- Aplikacje mobilne i webowe 
 - Projekt aplikacji webowej
 - Technologie server-side
 - Tworzenie aplikacji internetowych
