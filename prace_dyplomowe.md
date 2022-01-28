@@ -8,6 +8,18 @@ Dzięki dobrze dobranej tematyce pracy dyplomowej **zwiększacie swoją wartoś�
 
 ---
 ### Przykładowe aktualnie realizowane tematy
+- Projekt i realizacja aplikacji internetowej do zarządzania sesją egzaminacyjną
+- Aplikacja wspomagająca zarządzanie kosztami energii elektrycznej
+- Projekt i realizacja aplikacji internetowej wspomagającej zarządzanie domowym budżetem
+- Projekt i realizacja aplikacji służącej do efektywnego zarządzania czasem oraz wspomagania pracy zespołowej
+- Projekt i realizacja mobilnej aplikacji dla systemu Android z możliwością obsługi przepisów kulinarnych
+- Aplikacja wspomagająca pracę trenerów piłki nożnej
+- Projekt i realizacja API do zarządzania koncertami i imprezami masowymi
+- Aplikacja webowa służąca do wystawiania ogłoszeń wynajmu, sprzedaży lub zamiany mieszkań i domów
+- Projekt i implementacja systemu zdalnego monitorowania statystyk związanych z procesem potwierdzania bloków w sieci używającej blockchain za pomocą algorytmu konsensusu PoW
+- Projekt i realizacja aplikacji webowej do wyszukiwania i rekomendowania albumów muzycznych opartej na API Spotify 
+
+### Archiwalne tematy
 - Aplikacja zwiększająca wydajność pracy w hipermarketach z kasami samoobsługowymi 
 - E-learningowa aplikacja mobilna dla dzieci 
 - Portal społecznościowy dla astrofotografów 
@@ -34,8 +46,6 @@ Dzięki dobrze dobranej tematyce pracy dyplomowej **zwiększacie swoją wartoś�
 - System wspomagający zarządzanie kartoteką pacjenta w gabinecie fizjoterapeutycznym
 - Model automatycznego sterowania oświetleniem 
 - Aplikacja mobilna do kontrolowania postępów w nauce 
-
-### Archiwalne tematy
 - Wybrane metody zapewniania trwałości danych w technologiach javowych
 - Projekt aplikacji służącej do przechowywania danych w chmurze zapewniającej poufność
 - Aplikacja webowa służąca do rejestrowania czasu pracy dla małych i średnich przedsiębiorstw
