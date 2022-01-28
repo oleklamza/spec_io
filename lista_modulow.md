@@ -16,7 +16,7 @@
     - obsługa multimediów w aplikacjach.
 
 - **Aplikacje mobilne i webowe**
-    - tworzenie nowoczesnych aplikacji wieloplatformowych (np. Flutter),
+    - tworzenie nowoczesnych aplikacji internetowych i wieloplatformowych,
     - korzystanie z usług typu BaaS (np. Firebase).
 
 ### Narzędzia i techniki
